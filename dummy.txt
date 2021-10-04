@@ -1,5 +1,0 @@
-git int Demo   = create folder
-cd = change repository
-dir = folder details
-git status = new file status
-git add . = to commit files
